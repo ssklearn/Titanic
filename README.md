@@ -33,6 +33,10 @@ The data files used in this project are:
 
 A random forest classifier is used to make predictions.
 
+## results
+
+The model achieved a Kaggle competition score of 0.77990.
+
 ## How to Use
 
 1. Clone the repository:
