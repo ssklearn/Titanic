@@ -38,7 +38,7 @@ A random forest classifier is used to make predictions.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/weadong/Titanic.git
+   git clone https://github.com/ssklearn/Titanic.git
 
 1. Install the required libraries:
    pip install -r requirements.txt
