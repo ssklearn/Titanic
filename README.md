@@ -45,5 +45,5 @@ A random forest classifier is used to make predictions.
 2. Run the Jupyter Notebook:
    jupyter notebook titanic.ipynb
 
-License
+**License**
 This project is licensed under the MIT License
